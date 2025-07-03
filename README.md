@@ -11,7 +11,7 @@
 6. Merged 'feature-branch' into 'master' to create merge conflict.
 7. Resolved merge conflict manually by:
    - Editing 'file.txt' to keep both branch changes.
-   - Removing conflict markers.
+   - Removing conflict markers ('<<<<<<<', '======', '>>>>>>>').
 8. Committed the resolved file.
 9. Pushed both **master branch** and **feature-branch** to GitHub.
 
@@ -29,7 +29,7 @@
 
 ##   **Deliverables**
 
- - **Repository Link:** [https://github.com/Anusha-star-dot/codtech-task1.git]
+ - **Repository Link:** [https://github.com/Anusha-star-dot/codtech-task1](https://github.com/Anusha-star-dot/codtech-task1)
 
 --
  **Task Completed Successfully.**
